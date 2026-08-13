@@ -1,5 +1,5 @@
-#Hi , I'am Antor Sarker
-###Competitive Programmer
+# Hi , I'am Antor Sarker
+### Competitive Programmer
 # 💫 About Me:
 
 I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science & Engineering (CSE) student at University of Barishal. I love solving complex algorithmic problems, practicing Data Structures & Algorithms (DSA), and building tech solutions. I regularly participate in programming contests to refine my problem-solving skills and teamwork.
