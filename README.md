@@ -83,27 +83,16 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 </p>
 
 <p align="center">
-  <!-- CodeChef Rating Badge (dynamic-json দিয়ে সরাসরি ডেটা টেনে আনা, verified কাজ করছে) -->
+  <!-- CodeChef Stats Card (codechef-stats-api-two.vercel.app, verified কাজ করছে) -->
   <a href="https://www.codechef.com/users/antorsarker">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fcodechef%2Fantorsarker&label=CodeChef%20Rating&query=%24.rating&color=brown&style=for-the-badge&logo=codechef" alt="CodeChef Rating" />
-  </a>
-  <br/>
-  <a href="https://www.codechef.com/users/antorsarker">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fcodechef%2Fantorsarker&label=Stars&query=%24.stars&color=orange&style=for-the-badge" alt="CodeChef Stars" />
+    <img src="https://codechef-stats-api-two.vercel.app/antorsarker/stats/svg?theme=dark" alt="CodeChef Stats" width="400" />
   </a>
 </p>
 
-<!--
-  আগের /badge/codechef/... endpoint ব্যবহার না করে এখন সরাসরি
-  /codechef/antorsarker JSON রেসপন্স থেকে shields.io dynamic/json badge
-  দিয়ে rating আর stars টেনে আনা হচ্ছে। কারণ ওই সার্ভিসের badge endpoint
-  নিজেই buggy — message ফিল্ড ফাঁকা পাঠাচ্ছিল।
-
-  আরো ফিল্ড দেখাতে চাইলে query প্যারামিটার বদলাও:
-  $.globalRank, $.countryRank, $.problemsSolved ইত্যাদি
-  (JSON schema-টা আগের মেসেজে দেওয়া আছে)
--->
 ---
+
+
+
 ## 📊 GitHub & Coding Stats:
 
 <p align="center">
