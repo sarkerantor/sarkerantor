@@ -71,14 +71,14 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 <p align="center">
   <!-- Codeforces Card -->
   <a href="https://codeforces.com/profile/antor-2.0">
-    <img src="https://codeforces-readme-stats.vercel.app/api?username=antor-2.0&theme=radial" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=antor-2.0" alt="Codeforces Stats" />
   </a>
 </p>
 
 <p align="center">
   <!-- LeetCode Card -->
   <a href="https://leetcode.com/antor_21">
-    <img src="https://leetcode-stats-badge.herokuapp.com/antor_21?theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/antor_21?theme=dark&font=baloo2&extension=activity" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -88,6 +88,11 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
     <img src="https://codechef-api.vercel.app/antorsarker" alt="CodeChef Stats" width="400" />
   </a>
 </p>
+
+<!--
+  CodeChef ফলব্যাক (যদি উপরেরটা 402/কাজ না করে):
+  <img src="https://codechef-readme-stats.onrender.com/antorsarker?v=1" alt="CodeChef Stats" width="400" />
+-->
 
 ## 📊 GitHub & Coding Stats:
 
