@@ -66,7 +66,7 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 
 ---
 
-<h2 align="center">🧠 Competitive Programming Statistics</h2>
+## 🧠 Competitive Programming Statistics
 
 <p align="center">
   <!-- Codeforces Card -->
@@ -76,14 +76,14 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 </p>
 
 <p align="center">
-  <!-- LeetCode Card -->
+  <!-- LeetCode Card (rating history/contest সহ) -->
   <a href="https://leetcode.com/antor_21">
     <img src="https://leetcard.jacoblin.cool/antor_21?theme=dark&font=baloo2&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 
 <p align="center">
-  <!-- CodeChef Stats -->
+  <!-- CodeChef Rating Badge (dynamic-json দিয়ে সরাসরি ডেটা টেনে আনা, verified কাজ করছে) -->
   <a href="https://www.codechef.com/users/antorsarker">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fcodechef%2Fantorsarker&label=CodeChef%20Rating&query=%24.rating&color=brown&style=for-the-badge&logo=codechef" alt="CodeChef Rating" />
   </a>
@@ -93,6 +93,16 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
   </a>
 </p>
 
+<!--
+  আগের /badge/codechef/... endpoint ব্যবহার না করে এখন সরাসরি
+  /codechef/antorsarker JSON রেসপন্স থেকে shields.io dynamic/json badge
+  দিয়ে rating আর stars টেনে আনা হচ্ছে। কারণ ওই সার্ভিসের badge endpoint
+  নিজেই buggy — message ফিল্ড ফাঁকা পাঠাচ্ছিল।
+
+  আরো ফিল্ড দেখাতে চাইলে query প্যারামিটার বদলাও:
+  $.globalRank, $.countryRank, $.problemsSolved ইত্যাদি
+  (JSON schema-টা আগের মেসেজে দেওয়া আছে)
+-->
 ---
 ## 📊 GitHub & Coding Stats:
 
