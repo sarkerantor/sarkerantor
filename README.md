@@ -66,24 +66,6 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 
 ---
 
-## 🌟 Extra-Curricular Activities & Leadership
-
-| Role | Organization | Duration | Responsibilities & Skills |
-| :--- | :--- | :--- | :--- |
-| **Campus Ambassador** | Phitron | Dec 2025 – Present | Promoting programming culture & mentoring students |
-| **Associate Executive** | IT Society / Science Club | Jan 2026 – Present | Event management, teamwork, and community leadership |
-
----
-
-## ✍️ Featured Blogs & Articles
-
-| Blog Name | Platform | Link |
-| :--- | :--- | :--- |
-| **কোডের অক্ষরে লেখা এক স্বপ্নের গল্প** | Facebook | [👉 Read Article](https://facebook.com) |
-| **আমি কোড লিখি, কিন্তু প্রবলেম সল্ভ করতে পারি না…** | Medium | [👉 Read Article](https://medium.com) |
-
----
-
 ## 📊 GitHub & Coding Stats:
 
 <p align="center">
