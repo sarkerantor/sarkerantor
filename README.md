@@ -66,6 +66,29 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 
 ---
 
+## 🧠 Competitive Programming Statistics
+
+<p align="center">
+  <!-- Codeforces Card -->
+  <a href="https://codeforces.com/profile/antor-2.0">
+    <img src="https://codeforces-readme-stats.vercel.app/api?username=antor-2.0&theme=radial" alt="Codeforces Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- LeetCode Card -->
+  <a href="https://leetcode.com/antor_21">
+    <img src="https://leetcode-stats-badge.herokuapp.com/antor_21?theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- CodeChef Card -->
+  <a href="https://www.codechef.com/users/antorsarker">
+    <img src="https://codechef-api.vercel.app/antorsarker" alt="CodeChef Stats" width="400" />
+  </a>
+</p>
+
 ## 📊 GitHub & Coding Stats:
 
 <p align="center">
