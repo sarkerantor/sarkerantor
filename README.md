@@ -83,9 +83,13 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 </p>
 
 <p align="center">
-  <!-- CodeChef Rating Badge -->
+  <!-- CodeChef Stats -->
   <a href="https://www.codechef.com/users/antorsarker">
-    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fantorsarker&cacheSeconds=86400" alt="CodeChef Rating" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fcodechef%2Fantorsarker&label=CodeChef%20Rating&query=%24.rating&color=brown&style=for-the-badge&logo=codechef" alt="CodeChef Rating" />
+  </a>
+  <br/>
+  <a href="https://www.codechef.com/users/antorsarker">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fcodechef%2Fantorsarker&label=Stars&query=%24.stars&color=orange&style=for-the-badge" alt="CodeChef Stars" />
   </a>
 </p>
 
