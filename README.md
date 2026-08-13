@@ -56,15 +56,13 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 
 ---
 
-## 🚀 Contest Highlights & Achievements
+## 🧠 Contest Highlights
 
-| Competition / Event | Organizer / Platform | Position / Status | Date / Year |
-| :--- | :--- | :--- | :--- |
-| **BU IUPC'26** | Programming Club BU | 🥉 13th Place | Feb 2026 |
-| **ICPC Preli** | National | Contestant | Nov 2025 |
-| **CodeChef Contests** | CodeChef | Active Participant | Ongoing |
-| **Codeforces Rounds** | Codeforces | Active Participant | Ongoing |
-| **1K+ Problems Solved** | CP Platforms | Milestone Reached 🎯 | Ongoing |
+| Competition / Event | Organizer / Platform | Team / Category | Achievement | Date |
+| :--- | :--- | :--- | :--- | :--- |
+| **BU Intra University Programming Contest** | CSE, University of Barishal | Individual | 🏅 **7th Rank** | Feb 13, 2026 |
+| **NDUB IUPC 2026** | Notre Dame University Bangladesh | BU_Decimals | 🎯 **54th Rank** | May 12, 2026 |
+| **NSU IUPC 2026** | North South University | BU_Decimals | 🚀 **101st Rank** | Jun 15, 2026 |
 
 ---
 
