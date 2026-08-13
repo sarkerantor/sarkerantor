@@ -66,7 +66,7 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 
 ---
 
-## 🧠 Competitive Programming Statistics
+<h2 align="center">🧠 Competitive Programming Statistics</h2>
 
 <p align="center">
   <!-- Codeforces Card -->
@@ -78,22 +78,18 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 <p align="center">
   <!-- LeetCode Card -->
   <a href="https://leetcode.com/antor_21">
-    <img src="https://leetcard.jacoblin.cool/antor_21?theme=dark&font=baloo2&extension=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/antor_21?theme=dark&font=baloo2&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 
 <p align="center">
-  <!-- CodeChef Card -->
+  <!-- CodeChef Rating Badge -->
   <a href="https://www.codechef.com/users/antorsarker">
-    <img src="https://codechef-api.vercel.app/antorsarker" alt="CodeChef Stats" width="400" />
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fantorsarker&cacheSeconds=86400" alt="CodeChef Rating" />
   </a>
 </p>
 
-<!--
-  CodeChef ফলব্যাক (যদি উপরেরটা 402/কাজ না করে):
-  <img src="https://codechef-readme-stats.onrender.com/antorsarker?v=1" alt="CodeChef Stats" width="400" />
--->
-
+---
 ## 📊 GitHub & Coding Stats:
 
 <p align="center">
