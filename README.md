@@ -93,19 +93,25 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
 
 
 
-## 📊 GitHub & Coding Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antor-2.0&show_icons=true&theme=radial&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antor-2.0&layout=compact&theme=radial&hide_border=true" width="48%" />
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sarkerantor&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antor-2.0&theme=radial&hide_border=true" width="98%" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=sarkerantor&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <!-- GitHub Contribution Snake (নিচের নোট দেখো — সেটআপ লাগবে) -->
+  <img src="https://raw.githubusercontent.com/sarkerantor/sarkerantor/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+<p align="center">
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarkerantor&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 ---
-
-<p align="center">
-  <i>"Code, Solve, Repeat! Driven by algorithms and logic."</i> 🚀
-</p>
