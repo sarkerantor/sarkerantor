@@ -18,10 +18,10 @@ I’m **Antor Sarker**, a passionate Competitive Programmer and Computer Science
   <a href="https://www.codechef.com/users/antorsarker" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-antorsarker-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/antor-sarker-63b83b379/)" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Antor_Sarker-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://facebook.com](https://www.facebook.com/antor.sarker.309526/)" target="_blank">
+  <a href="https://facebook.com" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Antor_Sarker-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
